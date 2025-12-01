@@ -53,6 +53,7 @@ Bước 7: Chạy file trên Streamlit
 streamlit run 1_Demo_Model.py
 ```
 <img width="815" height="414" alt="Image" src="https://github.com/user-attachments/assets/1c12fe59-c780-4703-bc84-4459cf737e19" />
+
 ## Cấu Trúc Dự Án
 ```
 YOLO-Vehicle-Objects-Detection/
